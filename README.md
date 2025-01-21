@@ -76,3 +76,11 @@ test     8.00 KiB
 
 
 ```
+
+### Lens installation
+
+```bash
+sudo snap install kontena-lens --classic
+```
+
+![screenshot](./lens.png)

@@ -48,6 +48,7 @@ sudo kubectl get svc
 NAME         TYPE        CLUSTER-IP   EXTERNAL-IP   PORT(S)     AGE
 kubernetes   ClusterIP   172.20.0.1   <none>        443/TCP     141m
 mongodb      ClusterIP   None         <none>        27017/TCP   113m
+```
 
 Connect to mongodb:
 
